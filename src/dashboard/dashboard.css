@@ -1,0 +1,262 @@
+.dashboardBG {
+  background: #101062;
+  min-height: 100vh;
+}
+.btnToggle {
+  background: linear-gradient(to right, #465089, #0a1862);
+  padding: 10px 17px !important;
+  border: 1px solid #465089 !important;
+  border-radius: 10px !important;
+  height: 45px;
+  width: 45px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.navbarContainer {
+  border: 1px solid #465089;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+  color: white;
+  border-radius: 10px;
+  flex-grow: 1;
+}
+.dash_title {
+  font-size: 20px;
+  font-weight: 500;
+  margin-bottom: 0px;
+}
+.options {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 0px;
+  margin-right: 20px;
+}
+.paddingNavbar {
+  padding: 20px 20px 20px 20px;
+}
+.sideBarLayout {
+  background: radial-gradient(ellipse at top, #152891, #0a1862, #06124d);
+  border: 1px solid #465089;
+  width: 290px;
+  height: 100%;
+  border-radius: 20px;
+  margin: 20px;
+  height: 85vh;
+}
+.sideBarLayout > li {
+  color: white;
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 500;
+  text-align: left;
+  list-style: none;
+  margin: 28px;
+}
+.sideBarLayout > li.active {
+  background-color: #00F0FF;
+  padding: 15px 20px;
+  border-radius: 20px;
+  color: white !important;
+}
+.sideBarLayout > li > img {
+  margin-right: 20px;
+}
+.dropdownLink img {
+  margin-right: 10px;
+  margin-left: -4px;
+}
+.dropdownLink {
+  background: transparent !important;
+  border: none !important;
+  color: white !important;
+}
+.logout {
+  text-decoration: none;
+  margin-left: 8px;
+  color: white;
+}
+.DH_title {
+  text-align: center !important;
+  color: white;
+  font-size: 16px;
+  font-weight: 400;
+}
+.sentosBalance {
+  background: radial-gradient(ellipse at top, #152891, #0a1862, #06124d);
+  width: 100%;
+  height: max-content;
+  padding: 15px 0px 15px 20px;
+  color: white;
+  border-radius: 20px;
+  border: 1px solid #465089;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+.balanceTitle {
+  font-size: 12px;
+  font-weight: 400;
+  color: #47abf9;
+  margin-bottom: 0px;
+}
+.balance {
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0px;
+}
+.buySentosCoin {
+  background: radial-gradient(ellipse at top, #152891, #0a1862, #06124d);
+  width: 100%;
+  height: max-content;
+  color: white;
+  border-radius: 20px;
+  border: 1px solid #465089;
+  margin-right: 20px;
+  margin-top: 25px;
+}
+.buySentos {
+  background: linear-gradient(to left, #fe1202, #fd6e10);
+  width: 100%;
+  height: max-content;
+  border-radius: 20px 20px 0px 0px;
+  text-align: center;
+  padding: 12px;
+  margin-bottom: 0px;
+}
+.customBGInput {
+  background-color: #051153 !important;
+  border: 1px solid #465089 !important;
+  color: white !important;
+  padding: 15px 20px !important;
+}
+.input-group-text {
+  background-color: #051153 !important;
+  border: 1px solid #465089 !important;
+  color: white !important;
+}
+::placeholder {
+  color: #727272 !important;
+  padding-left: 20px;
+}
+.go_live {
+  font-size: 12px;
+  font-weight: 400;
+  color: #47abf9;
+  text-align: center;
+  margin-bottom: 10px;
+  margin-top: 10px;
+}
+.dash_marginBottom {
+  border-bottom: 1px solid #465089;
+}
+.total_coin_sales {
+  font-size: 12px;
+  font-weight: 400;
+  color: #47abf9;
+  margin-bottom: 0px;
+}
+.coin_amount {
+  font-size: 14px;
+  color: white;
+  font-weight: 400;
+}
+.progress {
+  height: 50px !important;
+  border-radius: 50px !important;
+  background: linear-gradient(to right, #152891, #040e48, #14268c) !important;
+  border: 1px solid #465089 !important ;
+}
+.bg-success {
+  background: linear-gradient(to right, #6ab892, #b5f392) !important;
+  border: 3px solid #000000 !important;
+  border-radius: 50px !important;
+  color: black !important;
+  font-weight: 600 !important;
+}
+.sentosVal {
+  font-size: 12px;
+  font-weight: 400;
+  margin: 20px 0px 0px 0px;
+}
+.sentosVal span {
+  color: #3af262;
+}
+.other_crytos {
+  border: 1px solid #465089;
+  border-radius: 10px;
+  text-align: center;
+  padding: 15px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.maxColor {
+  color: #47abf9 !important;
+}
+.minAmount {
+  font-size: 10px;
+  font-weight: 400;
+  color: #ffa409;
+  margin-bottom: 0px;
+  margin-top: -10px;
+}
+.sentosWorth {
+  font-weight: 400;
+  text-align: center;
+}
+.sentosWorth > span:nth-child(1) {
+  color: #47abf9;
+  font-size: 12px;
+}
+.sentosWorth > span:nth-child(2) {
+  color: white;
+  font-size: 14px;
+}
+.btnBuySentos {
+  background-color: #085bab !important;
+  color: #7ec1fc !important;
+  font-size: 18px !important;
+  border-radius: 10px !important;
+  padding: 14px !important;
+}
+.GoInLive {
+  border: 1px solid #3af262;
+  border-radius: 10px;
+  padding: 14px;
+  margin-top: 20px;
+}
+.goLive {
+  font-size: 16px;
+  color: white;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.applied {
+  font-size: 12px;
+  color: #3af262;
+  font-weight: 400;
+  margin-bottom: 0px;
+}
+.active_dash {
+  font-size: 10px;
+  color: #3af262;
+  font-weight: 400;
+}
+.paddingUpperPart {
+  padding: 16px;
+}
+.paddingBottomEnd {
+  padding: 16px;
+}
+.last_trans {
+  font-size: 20px;
+  font-weight: 600;
+  color: white;
+  margin-bottom: 50px;
+}
+.no_trans {
+  font-size: 14px;
+  font-weight: 500;
+  color: white;
+}

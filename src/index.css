@@ -1,0 +1,1284 @@
+body {
+  margin: 0;
+  overflow-x: hidden !important;
+  background: #000 !important;
+  /* background: #001313 !important; */
+}
+
+/* responsive settings  */
+@media (width <=450px) {
+  /* .blockChain_box {
+    margin: 20px !important;
+    padding: 15px !important;
+  } */
+
+  .aboutSection1{
+    padding: 0% !important;
+  }
+.swiper-pagination{
+  display: none !important;
+}
+  .mediaPartners {
+    height: fit-content !important;
+    padding: 50px 20px 50px 20px !important;
+  }
+
+  .borderBox>img {
+    height: 150px !important;
+    width: 155px !important;
+  }
+
+  .topIcon {
+    position: absolute;
+    top: -52px !important;
+    left: 40% !important;
+  }
+
+  .pl {
+    padding-left: 2% !important;
+  }
+
+  .homeBtn {
+    border-radius: 50px;
+    background-color: white;
+    padding: 10px 25px !important;
+  }
+
+  .homeBg {
+    height: max-content !important;
+    /* padding: 60px 0px 150px 0px !important; */
+  }
+
+  .homeBg2 {
+    height: max-content !important;
+    /* padding: 60px 0px 150px 0px !important; */
+  }
+
+  .homeBg3 {
+    height: max-content !important;
+    /* padding: 60px 0px 150px 0px !important; */
+  }
+
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 290px !important;
+  }
+
+  .homeBtn {
+    margin-bottom: 20px !important;
+  }
+
+  .homeBtn img {
+    width: 100px;
+    height: 30px;
+  }
+
+  .roadMapH1 {
+    font-size: 40px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 40px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 16px !important;
+  }
+
+  .place-end {
+    padding: 0px;
+    display: grid;
+    justify-content: start !important;
+  }
+
+  /* .TopkenomicsH2 {
+    font-size: 18px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 5px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 30px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 16px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: none !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: cover !important;
+    /* Crop to fill (like background-size: cover) */
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    object-fit: fill !important;
+    /* Stretch to fill (may distort) */
+    margin: 0 auto;
+  }
+
+  .homeH1 {
+    font-size: 28px !important;
+  }
+
+  .homep1 {
+    font-size: 16px !important;
+  }
+
+  .mainDiv {
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler {
+    background-color: #00C4F4 !important;
+  }
+
+  /* .navbar-toggler .navbar-toggler-icon {
+    border: 1px solid #00C4F4 !important;
+    border-radius: 10px !important;
+    background-color:transparent !important ;
+    padding: 20px;
+  } */
+
+  .btnBuyNow {
+    margin-bottom: 20px;
+  }
+
+  .homeBtn> {
+    width: 200px;
+  }
+
+  .payments-icons {
+    border-left: none !important;
+    border-right: none !important;
+    padding: 0px 20px 0px 20px;
+  }
+
+  .payments-icons>img {
+    margin: 5px !important;
+  }
+
+  .setImgPosition {
+    top: -290px !important;
+  }
+
+  .paymentMethods {
+    background: rgba(255, 255, 255, 0.24);
+    width: 100%;
+    height: 290px;
+    color: white;
+    font-size: 14px;
+    padding: 16px 20px !important;
+    border-radius: 50px;
+    margin-bottom: 50px;
+    position: absolute;
+    bottom: 60px !important;
+    height: max-content;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    margin-right: 20px !important;
+    margin-left: 20px !important;
+  }
+
+  .homep01 {
+    font-size: 30px !important;
+  }
+
+  .buyNowBtn {
+    margin-left: 20px !important;
+  }
+
+  .pl2 {
+    padding-left: 1% !important;
+    padding-top: 4% !important;
+  }
+
+  .pl3 {
+    padding-left: 5% !important;
+    padding-top: 4% !important;
+  }
+
+  .slider2_h1 {
+    font-size: 40px !important;
+  }
+
+  .timer>div {
+    margin-right: 30px !important;
+  }
+
+  .sliderh1_3 {
+    font-size: 50px !important;
+  }
+
+  .sliderh1-2_3 {
+    font-size: 50px !important;
+    margin-top: -12px !important;
+  }
+
+  .sliderp2_3 {
+    font-size: 24px !important;
+    padding: 10px 30px !important;
+    border-radius: 20px;
+    margin-top: 0px !important;
+    width: fit-content !important;
+  }
+
+  .sliderp2_4 {
+    font-size: 24px !important;
+    margin-top: 10px;
+  }
+
+  .sliderp2_6 {
+    font-size: 23px !important;
+    margin-top: -18px !important;
+  }
+
+  .timer {
+    flex-wrap: wrap !important;
+  }
+
+  .timer>div:nth-child(3) {
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .timer>div:nth-child(4) {
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .aboutSection1>h1 {
+    font-size: 60px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .preSaleBtn {
+    font-size: 21px !important;
+    padding: 10px 40px !important;
+    margin-left: 15px !important;
+    color: white !important;
+  }
+
+  .swiper-button-next,
+  .swiper-button-prev {
+    display: block;
+    /* Show by default */
+  }
+
+  @media (max-width: 768px) {
+
+    .swiper-button-next,
+    .swiper-button-prev {
+      display: none !important;
+      /* Hide on mobile */
+    }
+  }
+}
+
+@media (width >=450px) and (width <=599px) {
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 290px !important;
+  }
+
+  .roadMapH1 {
+    font-size: 55px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 55px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 24px !important;
+  }
+
+  .place-end {
+    padding: 20px;
+  }
+
+  /* .TopkenomicsH2 {
+    font-size: 27px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 45px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 40px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 20px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: none !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: cover !important;
+    /* Crop to fill (like background-size: cover) */
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    object-fit: fill !important;
+    /* Stretch to fill (may distort) */
+    margin: 0 auto;
+  }
+
+  .homeH1 {
+    font-size: 55px !important;
+    padding-top: 150px !important;
+  }
+
+  .homep1 {
+    font-size: 19px !important;
+  }
+
+  .mainDiv {
+    height: 30vh !important;
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler .navbar-toggler-icon {
+    background-color: white !important;
+    padding: 16px;
+  }
+}
+
+@media (width >=600px) and (width <=768px) {
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .pl {
+    padding-left: 5% !important;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 290px !important;
+  }
+
+  .roadMapH1 {
+    font-size: 55px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 55px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 24px !important;
+  }
+
+  .place-end {
+    padding: 20px;
+    display: grid;
+    justify-content: start !important;
+  }
+/* 
+  .TopkenomicsH2 {
+    font-size: 27px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 45px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 40px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 20px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: none !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: cover !important;
+    /* Crop to fill (like background-size: cover) */
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    object-fit: fill !important;
+    /* Stretch to fill (may distort) */
+    margin: 0 auto;
+  }
+
+  .homeH1 {
+    font-size: 55px !important;
+    padding-top: 150px !important;
+  }
+
+  .homep1 {
+    font-size: 19px !important;
+  }
+
+  .mainDiv {
+    height: 30vh !important;
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler .navbar-toggler-icon {
+    background-color: white !important;
+    padding: 16px;
+  }
+
+  .setImgPosition {
+    top: -200px !important;
+    width: 300px;
+  }
+
+  .homep01 {
+    font-size: 35px !important;
+  }
+
+  .homeH1 {
+    font-size: 45px !important;
+    padding-top: 0px !important;
+  }
+
+  .paymentMethods {
+    width: fit-content !important;
+    font-size: 14px !important;
+    padding: 14px 40px !important;
+    bottom: 60px !important;
+    border-radius: 0px !important;
+  }
+
+  .payments-icons {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    padding: 20px !important;
+  }
+
+  .buyNowBtn {
+    margin-left: 25px !important;
+  }
+
+  .slider2_h1 {
+    font-size: 60px !important;
+  }
+
+  .sliderh1_3 {
+    font-size: 65px !important;
+  }
+
+  .sliderh1-2_3 {
+    font-size: 60px !important;
+    margin-top: -20px !important;
+  }
+
+  .sliderp2_3 {
+    font-size: 40px !important;
+    padding: 10px 30px !important;
+    margin-top: -5px !important;
+    width: fit-content;
+  }
+
+  .sliderp2_4 {
+    font-size: 30px !important;
+    margin-top: 6px !important;
+  }
+
+  .sliderp2_6 {
+    font-size: 24px !important;
+    margin-top: -20px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .mediaPartner>.sub {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  .mediaPartners {
+    padding: 50px 20px 50px 20px !important;
+  }
+
+  .homeBg {
+    height: 100vh !important;
+    padding: 50px 0px 50px 0px;
+  }
+
+  .timer {
+    flex-wrap: wrap !important;
+  }
+
+  .aboutSection1>h1 {
+    font-size: 60px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .preSaleBtn {
+    font-size: 21px !important;
+    padding: 10px 40px !important;
+    margin-left: 15px !important;
+    color: white !important;
+  }
+}
+
+@media (width >=769px) and (width <=991px) {
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 450px !important;
+  }
+
+  .roadMapH1 {
+    font-size: 55px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 55px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 24px !important;
+  }
+
+  .place-end {
+    padding: 20px;
+    display: grid;
+    justify-content: start !important;
+  }
+
+  /* .TopkenomicsH2 {
+    font-size: 27px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 45px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 52px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 24px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: none !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: cover !important;
+    /* Crop to fill (like background-size: cover) */
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    object-fit: fill !important;
+    /* Stretch to fill (may distort) */
+    margin: 0 auto;
+  }
+
+  .homeH1 {
+    font-size: 55px !important;
+    padding-top: 150px !important;
+  }
+
+  .homep1 {
+    font-size: 28px !important;
+  }
+
+  .mainDiv {
+    height: 30vh !important;
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler .navbar-toggler-icon {
+    background-color: white !important;
+    padding: 16px;
+  }
+
+  .place-end {
+    display: grid;
+    justify-content: start !important;
+  }
+
+  .homep01 {
+    font-size: 35px !important;
+  }
+
+  .homeH1 {
+    font-size: 45px !important;
+    padding-top: 0px !important;
+  }
+
+  .paymentMethods {
+    width: fit-content !important;
+    font-size: 14px !important;
+    padding: 14px 40px !important;
+    bottom: 60px !important;
+    border-radius: 0px !important;
+  }
+
+  .payments-icons {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    padding: 20px !important;
+  }
+
+  .buyNowBtn {
+    margin-left: 25px !important;
+  }
+
+  .slider2_h1 {
+    font-size: 60px !important;
+  }
+
+  .sliderh1_3 {
+    font-size: 65px !important;
+  }
+
+  .sliderh1-2_3 {
+    font-size: 60px !important;
+    margin-top: -20px !important;
+  }
+
+  .sliderp2_3 {
+    font-size: 40px !important;
+    padding: 10px 30px !important;
+    margin-top: -5px !important;
+    width: fit-content;
+  }
+
+  .sliderp2_4 {
+    font-size: 30px !important;
+    margin-top: 6px !important;
+  }
+
+  .sliderp2_6 {
+    font-size: 24px !important;
+    margin-top: -20px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .mediaPartner>.sub {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  .mediaPartners {
+    padding: 50px 20px 50px 20px !important;
+  }
+
+  .homeBg {
+    height: 100vh !important;
+    padding: 50px 0px 50px 0px;
+  }
+
+  .timer {
+    flex-wrap: wrap !important;
+  }
+
+  .timer>div:nth-child(3) {
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .timer>div:nth-child(4) {
+    margin-top: 10px !important;
+    margin-bottom: 20px !important;
+  }
+
+  .aboutSection1>h1 {
+    font-size: 60px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .preSaleBtn {
+    font-size: 21px !important;
+    padding: 10px 40px !important;
+    margin-left: 15px !important;
+    color: white !important;
+  }
+}
+
+@media (width >=992px) and (width <=1299px) {
+  .navBgDark .nav-link {
+    color: #595959;
+    font-size: 10px !important;
+    font-weight: 700;
+  }
+
+  .navBgDark .btnBuyNow {
+    background: linear-gradient(to right, #0287fd, #00C4F4) !important;
+    border: 2px solid white;
+    font-size: 14px !important;
+    font-weight: 700;
+    padding: 10px 40px;
+    color: white;
+    border-radius: 40px;
+    margin-top: 10px;
+  }
+
+  .btnBuyNow:hover {
+    border: #00F0FF 1px solid !important;
+    color: white !important;
+  }
+
+  .homeBg {
+    height: 580px !important;
+  }
+
+  .mt {
+    margin-top: 170px;
+  }
+
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 450px !important;
+  }
+
+  .roadMapH1 {
+    font-size: 55px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 55px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 24px !important;
+  }
+
+  .place-end {
+    padding: 20px;
+  }
+
+  /* .TopkenomicsH2 {
+    font-size: 27px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 45px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 40px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 18px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: block !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: cover !important;
+    /* Crop to fill (like background-size: cover) */
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    object-fit: fill !important;
+    /* Stretch to fill (may distort) */
+    margin: 0 auto;
+  }
+
+  .homeH1 {
+    font-size: 35px !important;
+    padding-top: 150px !important;
+  }
+
+  .homep1 {
+    font-size: 15px !important;
+  }
+
+  .mainDiv {
+    height: 30vh !important;
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler .navbar-toggler-icon {
+    background-color: white !important;
+    padding: 16px;
+  }
+
+  .place-end {
+    display: grid;
+    justify-content: center !important;
+  }
+
+  .setImgPosition {
+    top: -260px !important;
+    width: 400px;
+  }
+
+  .homep01 {
+    font-size: 30px !important;
+  }
+
+  .homeH1 {
+    font-size: 35px !important;
+    padding-top: 0px !important;
+  }
+
+  .homep1 {
+    font-size: 16px !important;
+  }
+
+  .homeBg {
+    height: 880px !important;
+  }
+
+  .mt {
+    margin-top: 25px !important;
+  }
+
+  .paymentMethods {
+    width: fit-content !important;
+    font-size: 14px !important;
+    padding: 14px 40px !important;
+    bottom: 60px !important;
+    border-radius: 0px !important;
+  }
+
+  .payments-icons {
+    border-left: 0px !important;
+    border-right: 0px !important;
+    padding: 0px !important;
+  }
+
+  .payments-icons>img:nth-child(2) {
+    padding: 14px 20px !important;
+    margin-left: 5px !important;
+  }
+
+  .buyNowBtn {
+    margin-left: 25px !important;
+  }
+
+  .slider2_h1 {
+    font-size: 60px !important;
+  }
+
+  .sliderh1_3 {
+    font-size: 65px !important;
+  }
+
+  .sliderh1-2_3 {
+    font-size: 60px !important;
+    margin-top: -20px !important;
+  }
+
+  .sliderp2_3 {
+    font-size: 40px !important;
+    padding: 10px 30px !important;
+    margin-top: -5px !important;
+    width: fit-content;
+  }
+
+  .sliderp2_4 {
+    font-size: 30px !important;
+    margin-top: 6px !important;
+  }
+
+  .sliderp2_6 {
+    font-size: 24px !important;
+    margin-top: -20px !important;
+  }
+
+  .aboutSection1>p:nth-child(2) {
+    font-size: 18px !important;
+  }
+
+  .mediaPartner>.sub {
+    font-size: 18px;
+    font-weight: 500;
+    color: #ffffff;
+  }
+
+  .mediaPartners {
+    padding: 50px 20px 50px 20px !important;
+  }
+
+  .navBgDark .btnBuyNow {
+    font-size: 12px !important;
+    font-weight: 700;
+    padding: 10px 15px !important;
+    margin-left: 5px !important;
+  }
+
+  .me-5 {
+    margin-right: 0px !important;
+  }
+}
+
+@media (width >=1300px) {
+  .navBgDark .nav-link {
+    color: #595959;
+    font-size: 14px !important;
+    font-weight: 700;
+  }
+
+  .navBgDark .btnBuyNow {
+    background: #00F0FF;
+    /* background: linear-gradient(to right, #0287fd, #00C4F4) !important; */
+    /* border: 2px solid white; */
+    font-size: 14px !important;
+    /* font-weight: 700; */
+    padding: 10px 40px;
+    color: white;
+    border-radius: 40px;
+  }
+
+  .btnBuyNow:hover {
+    border: #00F0FF 1px solid !important;
+    color: white !important;
+    background-color: transparent !important;
+  }
+
+  .homeBg {
+    height: 100vh !important;
+  }
+
+  .mt {
+    margin-top: 60px;
+    width: 600px !important;
+    height: 600px !important;
+  }
+
+  .part1>h1 {
+    font-size: 40px;
+  }
+
+  .part1>p {
+    font-size: 18px;
+  }
+
+  .inputGroup>input {
+    width: 450px !important;
+  }
+
+  .roadMapH1 {
+    font-size: 55px !important;
+  }
+
+  .roadMapP1 {
+    font-size: 19px !important;
+  }
+
+  .customCart {
+    height: max-content !important;
+    margin-bottom: 40px;
+  }
+
+  .cartHead {
+    display: flex;
+    flex-wrap: wrap;
+    border-bottom: 2px solid rgba(45, 45, 45, 1);
+  }
+
+  .TopkenomicsP1 {
+    font-size: 55px !important;
+  }
+
+  .TopkenomicsP2 {
+    font-size: 24px !important;
+  }
+
+  /* .TopkenomicsH2 {
+    font-size: 20px !important;
+  } */
+
+  .percentage {
+    font-size: 19px !important;
+    right: 45px !important;
+  }
+
+  .aboutp1 {
+    font-size: 40px !important;
+  }
+
+  .aboutH2 {
+    font-size: 40px !important;
+    padding-left: 20px;
+  }
+
+  .aboutLi {
+    font-size: 18px !important;
+  }
+
+  .aboutLearnMore {
+    margin-left: 20px;
+  }
+
+  .d-sm-None {
+    display: block !important;
+  }
+
+  .d-sm-center>img {
+    object-fit: contain !important;
+    /* Scale to fit (preserves aspect ratio) */
+    margin: 0 auto;
+  }
+
+  .homep01 {
+    padding-top: 50px !important;
+  }
+
+  .homeH1 {
+    font-size: 50px !important;
+  }
+
+  .homep1 {
+    font-size: 24px !important;
+  }
+
+  .mainDiv {
+    height: 50vh !important;
+    padding: 20px !important;
+  }
+
+  .d-size-sm {
+    width: 170px !important;
+    height: 50px !important;
+  }
+
+  .ml {
+    margin-left: 0px !important;
+  }
+
+  .navbar-toggler .navbar-toggler-icon {
+    background-color: white !important;
+    padding: 16px;
+  }
+
+  .place-end {
+    display: grid;
+    justify-content: center !important;
+  }
+
+  .ml {
+    margin-left: 35px !important;
+  }
+}
