@@ -70,7 +70,7 @@ function Navbar() {
             </li>
           </ul>
           <div className="d-flex gap-2">
-            <a href="/assets/Sentos.pdf" target="_blank" className="btn-modern">
+            <a href="https://exchangeblockex.com/launchpad" target="_blank" className="btn-modern">
               Buy Now XBE
             </a>
             <a href="https://blockex.biz/xbe-whitepaper.pdf" target="_blank" className="btn-outline-modern">

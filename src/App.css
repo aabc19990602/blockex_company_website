@@ -1,8 +1,8 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.13.1/font/bootstrap-icons.min.css");
 
 * {
-  /* font-family: "Poppins", sans-serif; */
-  font-family: "Junge", cursive;
+  font-family: "Poppins", sans-serif;
+  /* font-family: "Junge", cursive; */
 }
 
 .active {
@@ -1152,11 +1152,14 @@ h5 {
   color: #00F0FF;
   opacity: 0.1;
   text-align: center;
-  font-family: Junge !important;
+  /* font-family: Junge !important; */
   font-size: 15vw;
   /* Responsive font size */
   font-style: normal;
   font-weight: 400;
   line-height: normal;
   text-transform: uppercase;
+}
+.eco_card_a{
+  text-decoration: none !important;
 }

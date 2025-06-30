@@ -15,19 +15,21 @@ function BlockChainSecurity() {
             <div className="container">
                 <div className="row justify-content-center">
                     <div className="col-xl-3 col-lg-5 col-md-5 col-sm-8">
-                        <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
-                            <div className="text-center">
+                        <a href="https://exchangeblockex.com/" target="_blank" className="eco_card_a">
+                            <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
+                                <div className="text-center">
 
-                                <img src="/assets/images/BlockEx_Ex.jpg" alt="" className="rounded"
-                                    style={{ width: "100%", height: "auto", objectFit: "contain" }} />
-                            </div>
-                            <div className="">
+                                    <img src="/assets/images/BlockEx_Ex.jpg" alt="" className="rounded"
+                                        style={{ width: "100%", height: "auto", objectFit: "contain" }} />
+                                </div>
+                                <div className="">
 
-                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">BlockEx Exchange <span style={{ background: "yellow", fontSize: "10px" }} className="p-1 rounded">In progress</span></h1>
-                                {/* <div style={{ fontSize: "12px" }} className="px-3"> <span style={{ background: "green" }} className="p-1 rounded">Coming Soon</span></div> */}
-                                <p className=" mt-2 px-3 fw-medium">World Best Secure Crypto Exchange</p>
+                                    <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">BlockEx Exchange <span style={{ background: "green", fontSize: "12px", color: "white" }} className="px-2 py-1 rounded">Live</span></h1>
+                                    {/* <div style={{ fontSize: "12px" }} className="px-3"> <span style={{ background: "green" }} className="p-1 rounded">Coming Soon</span></div> */}
+                                    <p className=" mt-2 px-3 fw-medium">World Best Secure Crypto Exchange</p>
+                                </div>
                             </div>
-                        </div>
+                        </a>
                     </div>
                     <div className="col-xl-3 col-lg-5 col-md-5 col-sm-7">
                         <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
@@ -86,7 +88,7 @@ function BlockChainSecurity() {
                             </div>
                             <div className="">
 
-                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">Crypto Card</h1>
+                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">Crypto Master Card</h1>
                                 {/* <span style={{ background: "yellow", fontSize: "10px" }} className="p-1 rounded">Coming Soon
                                 </span> */}
                                 {/* <div style={{ fontSize: "12px" }} className="px-4"> <span style={{ background: "#00DFFB" }} className="p-1 rounded">Coming Soon</span></div> */}

@@ -34,10 +34,10 @@ function Footer() {
                     <div className="col-xl-4 col-lg-4 col-md-6 col-sm-12 text-center borderLeft">
                         <h3 className="text-white mb-4">Follow Us</h3>
                         <div className="d-flex justify-content-center mb-4">
-                            <div className="mx-2"><a href="https://www.instagram.com/accounts/login/?next=%2Fthesentosofficial%2F&source=omni_redirect" target="_blank"><IoLogoInstagram size={24} color="#fff" /></a></div>
-                            <div className="mx-2"><FaFacebookF size={24} color="#fff" /></div>
+                            {/* <div className="mx-2"><a href="https://www.instagram.com/accounts/login/?next=%2Fthesentosofficial%2F&source=omni_redirect" target="_blank"><IoLogoInstagram size={24} color="#fff" /></a></div> */}
+                            <div className="mx-2"> <a href="https://www.facebook.com/share/16WGV3imvK/" target="_blank"><FaFacebookF size={24} color="#fff" /></a></div>
                             <div className="mx-2"><a href="https://x.com/xbeBlockex?t=Nn5NsnzwY-D9DMfoy3y-EQ&s=09" target="_blank"><FaXTwitter size={24} color="#fff" /></a></div>
-                            <div className="mx-2"><PiTelegramLogo size={24} color="#fff" /></div>
+                            <div className="mx-2"><a href="https://t.me/bllockex" target="_blank"><PiTelegramLogo size={24} color="#fff" /></a></div>
                         </div>
                         <p className="text-center text-white">empowers you to explore a wide range <br />
                             of popular crypto currencies</p>
