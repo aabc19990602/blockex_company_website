@@ -37,20 +37,24 @@ const AboutCompany = () => {
                         </div>
 
                     </div>
-                    <div className='row justify-content-center align-items-center mt-3'>
+                    <div className='row justify-content-center mt-5'>
                         <div className='col-lg-6 col-md-4 col-12'>
-                            <img src="/assets/images/aboutImg.png" className="img-fluid " alt="img" />
+                            <img src="/assets/images/vision.png" className="img-fluid " alt="img" />
                         </div>
                         <div className='col-lg-6 col-md-8 col-12'>
-                            <h2 className="aboutH2" style={{ paddingLeft: "0px" }}>Vission</h2>
+                            <h2 className="aboutH2 mt-5" style={{ paddingLeft: "0px" }}>Vission</h2>
                             <p className='text-white' style={{ fontSize: "18px", textAlign: "justify" }}>
                                 Empowering transactions across borders with crypto freedom.
+                            </p>
+                             <h2 className="aboutH2 mt-5" style={{ paddingLeft: "0px" }}>Mission</h2>
+                            <p className='text-white ord' style={{ fontSize: "18px", textAlign: "justify" }}>
+                                Empowering individuals and businesses globally, our payment-focused cryptocurrency aims to revolutionize transactions with seamless efficiency, security, and accessibility, driving financial empowerment and innovation.
                             </p>
                         </div>
 
 
                     </div>
-                    <div className='row justify-content-center align-items-center mt-3'>
+                    {/* <div className='row justify-content-center align-items-center mt-3'>
 
                         <div className='col-lg-6 col-md-8 col-12 order-md-1 order-2'>
                             <h2 className="aboutH2" style={{ paddingLeft: "0px" }}>Mission</h2>
@@ -63,7 +67,7 @@ const AboutCompany = () => {
                         </div>
 
 
-                    </div>
+                    </div> */}
 
                 </div>
             </div>

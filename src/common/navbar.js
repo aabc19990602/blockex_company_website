@@ -73,7 +73,7 @@ function Navbar() {
             <a href="/assets/Sentos.pdf" target="_blank" className="btn-modern">
               Buy Now XBE
             </a>
-            <a href="/assets/Sentos.pdf" target="_blank" className="btn-outline-modern">
+            <a href="https://blockex.biz/xbe-whitepaper.pdf" target="_blank" className="btn-outline-modern">
               Whitepaper
             </a>
 

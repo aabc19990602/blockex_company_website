@@ -87,7 +87,7 @@
 }
 
 footer {
-  background-color: #000;
+  background-color: #001313;
 }
 
 footer .footerLink {
@@ -139,7 +139,7 @@ footer .borderBottom {
   height: 100vh;
   background-image: linear-gradient(to bottom, black, transparent 20%),
     linear-gradient(to top, black, transparent 20%),
-    url("/public/assets/images/home3.png");
+    url("/public/assets/images/Banner_3.jpg");
   padding: 50px 0px 50px 0px;
   position: relative;
 }
@@ -270,9 +270,9 @@ footer .borderBottom {
   transform: rotate(180deg);
 }
 
-.Topkenomics {
+/* .Topkenomics {
   background-color: black;
-}
+} */
 
 .TopkenomicsPadding {
   padding: 100px 0px;
@@ -634,7 +634,7 @@ footer .borderBottom {
 }
 
 .contactus {
-  background-color: #000;
+  background-color: #001313;
 }
 
 .borderSection {
@@ -713,7 +713,7 @@ footer .borderBottom {
   height: max-content;
   width: 100%;
   background-image: linear-gradient(to left, transparent, transparent 20%),
-    linear-gradient(to right, #000, transparent 100%),
+    linear-gradient(to right, #001313, transparent 100%),
     url("/public/assets/images/contact.png");
   padding: 60px 0px 60px 0px;
 }
@@ -990,7 +990,7 @@ h5 {
 }
 
 .blockChainSecurity {
-  background-color: #000;
+  background-color: #001313 !important;
 }
 
 .bloackChain_p1 {

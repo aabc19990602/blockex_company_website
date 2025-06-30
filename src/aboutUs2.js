@@ -4,13 +4,15 @@
 
 function AboutUs2() {
     return (
-        <div style={{ backgroundColor: "#000" }} className="about2TopPadding" id="aboutus">
+        <div style={{ backgroundColor: "#001313" }} className="about2TopPadding" id="aboutus">
+            <div className="outli" style={{}}>
+                   About US
+                </div>
             <div className="row">
                 <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
                     <div className="d-flex justify-content-end">
                         <div className="position-relative mt-5">
-                            <h1 className="aboutH1">about us</h1>
-                            <h2 className="aboutH2">Vission & Mission of <br /><span className="textGradient"> BLockEx </span></h2>
+                            <h2 className="aboutH2">Vission And Mission of <br /><span className="textGradient"> BLockEx </span></h2>
                             <ul className="aboutLi">
                                 <p>Empowering transactions across borders with crypto freedom.
                                     <br /> Empowering individuals and businesses globally, our payment-focused<br />cryptocurrency aims to revolutionize transactions with seamless<br /> efficiency, security, and accessibility, driving financial<br /> empowerment and innovation.</p>

@@ -117,7 +117,7 @@ function Home() {
                     </div> */}
                 </SwiperSlide>
 
-                {/* <SwiperSlide>
+                <SwiperSlide>
                     <section className="homeBg3 position-relative" id="home">
                         <div className="blackGradient">
                             <div className="mainDiv3">
@@ -132,7 +132,7 @@ function Home() {
                         </div>
                     </section>
                     
-                </SwiperSlide> */}
+                </SwiperSlide>
             </Swiper>
         </>
     )
