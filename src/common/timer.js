@@ -3,7 +3,7 @@ import "./style.css";
 
 function CountDown() {
   const calculateTimeLeft = () => {
-    const targetDate = new Date("2026-07-20T00:00:00Z").getTime();
+    const targetDate = new Date("2025-07-15T00:00:00Z").getTime();
     const now = new Date().getTime();
     const difference = targetDate - now;
 

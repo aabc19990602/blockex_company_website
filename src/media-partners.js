@@ -8,7 +8,8 @@ function MediaPartner() {
                             <div className="mediaPartner">
                                 <h1 style={{ color: "black" }}>Partners</h1>
                                 <p className="main" style={{ color: "black" }}>Media Partners</p>
-                                <p className="sub" style={{ color: "black", opacity: "0.7", fontSize: "20px" }}>Find us across the digital spectrum, check us out, feel the pulse of the BlockEx project.</p>
+                                <p className="sub" style={{ color: "black", opacity: "0.7", fontSize: "20px" }}>The BlockEx revolution is catching global attention. From blockchain trends to project deep dives, see what the industry’s top voices are saying.
+</p>
                             </div>
                         </div>
                         <div className="col-xl-6 col-lg-6 col-md-7 col-sm-12 d-flex justify-content-center align-items-center">

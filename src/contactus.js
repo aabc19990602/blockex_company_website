@@ -11,8 +11,12 @@ function ContactUs() {
                     <div className="borderSection position-relative">
                         <div className="d-flex flex-wrap">
                             <div className="part1">
-                                <h1>$500,000 Raised</h1>
-                                <p>Join the BlockEx crypto presale, engage with the project,<br /> and see your contribution grow to new heights.</p>
+                                <h1> $500,000 Raised —
+                                </h1>
+                                <h1>Limited Slots Left!
+                                </h1>
+                                <p>The BlockEx presale is filling up fast. Don’t miss your chance <br />to be part of a breakthrough project.</p>
+                                <p>Act now before you’re priced out.</p>
                                 <a href='https://exchangeblockex.com/launchpad' target="_blank" className='btn buyBtn'>Buy Now</a>
 
                             </div>

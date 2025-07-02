@@ -41,9 +41,10 @@ function Home() {
                                     <div className="mainDiv">
                                         <div className="pl">
                                             <p className="homep01">WELCOME TO BlockEx</p>
-                                            <h1 className="homeH1">Your gateway to the<br /> world of <span className="lightBlue">Blockchain innovation</span> driven by Real Estate.</h1>
-                                            <p className="homep1">Experience ultra-fast transactions, unmatched<br /> security, and AI-driven innovation. Built for<br /> scalability, designed for the future.</p>
-                                            <p className="homep2">Download Extreme App:</p>
+                                            <h1 className="homeH1">Pioneering Blockchain Innovation in Real Estate.</h1>
+                                            <p className="homep1">Invest in the future of property with lightning-fast crypto tech, fortified by top-tier security and intelligent automation.
+</p>
+                                            <p className="homep2">Scalable, secure, and ahead of its time.</p>
                                             {/* <div className='d-flex'>
                                                 <a href='/assets/app-release.apk' download className="homeBtn"><img src="/assets/images/google-store.svg" alt='play-store' /></a>
                                                 <a className="homeBtn"><img src="/assets/images/apple-store.svg" alt='app store' /></a>
@@ -121,17 +122,22 @@ function Home() {
                     <section className="homeBg3 position-relative" id="home">
                         <div className="blackGradient">
                             <div className="mainDiv3">
-                                <div className="pl3">
-                                    <h1 className="sliderh1_3">ITO LIVE</h1>
-                                    <h1 className="sliderh1-2_3">JUNE 20TH</h1>
-                                    <p className='sliderp2_3'>Buy BlockEx AT $0.002</p>
-                                    <div className='d-flex justify-content-start'><div className='line'></div></div>
-                                    
+                                <div className="pl3 mt-0 mt-md-5">
+                                    <h1 className="slider2_h1 mt-0 mt-md-5" style={{ fontSize: "90px" }}>BLOCKEX </h1>
+                                    <h1 className="slider2_h1" style={{ fontSize: "50px" }}>ITO  - NOW LIVE</h1>
+                                    <p className="homep1" style={{fontSize:"18px"}}>$0.02 per token. Limited window.
+                                        <br/> Maximum upside.</p>
+                                        <a href='https://exchangeblockex.com/' target='_blank' style={{textDecoration:"none"}}>
+
+                                    <p className='sliderp2_3 mt-2'>Buy Now XBE</p>
+                                        </a>
+                                    {/* <div className='d-flex justify-content-start'><div className='line'></div></div> */}
+
                                 </div>
                             </div>
                         </div>
                     </section>
-                    
+
                 </SwiperSlide>
             </Swiper>
         </>

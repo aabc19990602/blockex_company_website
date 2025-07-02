@@ -1,111 +1,90 @@
 function BlockChainSecurity() {
     return (
         <section className="blockChainSecurity">
-            <div className="topView">
+            <div className="topView"></div>
 
-            </div>
-
-            <div className="outli" style={{}}>
-                Ecosystem
-            </div>
-            <p className="bloackChain_p1">BlockEx Ecosystem
+            <div className="outli">Ecosystem</div>
+            <p className="bloackChain_p1">BlockEx Ecosystem</p>
+            <h1 className="bloackChain_h1">Security. Decentralized. Reinvented.</h1>
+            <p className="bloclChain_p2">
+                From zero-knowledge protocols to real-time threat mitigation, BlockEx embeds <br />
+                advanced cryptographic defense into its DNA. Our ecosystem thrives on verified trust,<br />
+                layered defense, and a community that codes security into the future.
             </p>
-            <h1 className="bloackChain_h1">Fortifying Blockchain Security <br />at Every Layer</h1>
-            <p className="bloclChain_p2">BlockEx places security at the heart of innovation, implementing rigorous audits, community-driven bug bounty<br /> programs, and advanced cryptographic solutions. Discover how our proactive approach ensures<br /> a secure, transparent, and resilient blockchain ecosystem.</p>
+
             <div className="container">
                 <div className="row justify-content-center">
+                    {/* Live Card */}
                     <div className="col-xl-3 col-lg-5 col-md-5 col-sm-8">
                         <a href="https://exchangeblockex.com/" target="_blank" className="eco_card_a">
-                            <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
+                            <div className="blockChain_box card">
                                 <div className="text-center">
-
-                                    <img src="/assets/images/BlockEx_Ex.jpg" alt="" className="rounded"
-                                        style={{ width: "100%", height: "auto", objectFit: "contain" }} />
+                                    <img
+                                        src="/assets/images/BlockEx_echange.jpg"
+                                        alt=""
+                                        className="rounded"
+                                        style={{ width: "100%", height: "auto", objectFit: "contain" }}
+                                    />
                                 </div>
-                                <div className="">
-
-                                    <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">BlockEx Exchange <span style={{ background: "green", fontSize: "12px", color: "white" }} className="px-2 py-1 rounded">Live</span></h1>
-                                    {/* <div style={{ fontSize: "12px" }} className="px-3"> <span style={{ background: "green" }} className="p-1 rounded">Coming Soon</span></div> */}
-                                    <p className=" mt-2 px-3 fw-medium">World Best Secure Crypto Exchange</p>
+                                <div>
+                                    <h1 style={{ fontSize: "20px", color: "#00F0FF" }} className="px-3 mt-4 fw-bold">
+                                        BlockEx Exchange{" "}
+                                        <span style={{ background: "green", fontSize: "12px", color: "white" }} className="px-2 py-1 rounded">
+                                            Live
+                                        </span>
+                                    </h1>
+                                    <p className="mt-2 px-3 text-white">World Best Secure Crypto Exchange</p>
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <div className="col-xl-3 col-lg-5 col-md-5 col-sm-7">
-                        <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
-                            <div className="text-center">
 
-                                <img
-                                    src="/assets/images/StakingApp.png"
-                                    alt=""
-                                    style={{ width: "100%", height: "auto", objectFit: "contain" }}
-                                />
-                            </div>
-                            <div className="">
+                    {/* Coming Soon Cards */}
+                    {[
+                        {
+                            title: "BlockEx Staking App",
+                            description: "Allows users to stake their XBE coins and earn",
+                            image: "/assets/images/Staking_app.jpg",
+                        },
+                        {
+                            title: "Decentralized Exchange",
+                            description: "Exchange ensures the security of your funds while providing a seamless trading experience",
+                            image: "/assets/images/Decentralized_Exchange_banner.jpg",
+                        },
+                        {
+                            title: "Crypto Master Card",
+                            description: "Unlock the Future: Spend Anywhere with Master Crypto Card.",
+                            image: "/assets/images/crypto_card.jpg",
+                        },
+                    ].map((card, index) => (
+                        <div key={index} className="col-xl-3 col-lg-5 col-md-5 col-sm-7">
+                            <div className="blockChain_box card coming-soon-hover">
+                                {/* Hover Overlay */}
+                                <div className="overlay">Coming Soon</div>
 
-                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">BlockEx Staking App</h1>
-                                {/* <span style={{ background: "yellow", fontSize: "10px" }} className="p-1 rounded">Coming Soon
-                                </span> */}
-                                {/* <div style={{ fontSize: "12px" }} className="px-4"> <span style={{ background: "#00DFFB" }} className="p-1 rounded">Coming Soon</span></div> */}
-                                <p className="mt-2 px-3 fw-medium">Allows users to stake their XBE coins and earn
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                    <div className="col-xl-3 col-lg-5 col-md-5 col-sm-7">
-                        <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
-                            <div className="text-center">
-
-                                <img
-                                    src="/assets/images/Decentralized.jpg"
-                                    alt=""
-                                    style={{ width: "100%", height: "auto", objectFit: "contain" }}
-                                />
-                            </div>
-                            <div className="">
-
-                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">Decentralized Exchange</h1>
-                                {/* <span style={{ background: "yellow", fontSize: "10px" }} className="p-1 rounded">Coming Soon
-                                </span> */}
-                                {/* <div style={{ fontSize: "12px" }} className="px-4"> <span style={{ background: "#00DFFB" }} className="p-1 rounded">Coming Soon</span></div> */}
-                                <p className="mt-2 px-3 fw-medium">
-                                    Exchange ensures the security of your funds while
-                                    providing a seamless trading experience
-
-                                </p>
+                                <div className="text-center">
+                                    <img
+                                        src={card.image}
+                                        className="rounded"
+                                        alt=""
+                                        style={{ width: "100%", height: "auto", objectFit: "contain" }}
+                                    />
+                                </div>
+                                <div>
+                                    <h1 style={{ fontSize: "20px", color: "#00F0FF" }} className="px-3 mt-4 fw-bold">
+                                        {card.title}
+                                    </h1>
+                                    <p className="mt-2 px-3 text-white">{card.description}</p>
+                                </div>
                             </div>
                         </div>
-                    </div>
-                    <div className="col-xl-3 col-lg-5 col-md-5 col-sm-7">
-                        <div className="blockChain_box card" style={{ background: "#00F0FF" }}>
-                            <div className="text-center">
-
-                                <img
-                                    src="/assets/images/empowering-crypto.jpg"
-                                    alt=""
-                                    style={{ width: "100%", height: "auto", objectFit: "contain" }}
-                                />
-                            </div>
-                            <div className="">
-
-                                <h1 style={{ fontSize: "20px" }} className="px-3 mt-4 fw-bold">Crypto Master Card</h1>
-                                {/* <span style={{ background: "yellow", fontSize: "10px" }} className="p-1 rounded">Coming Soon
-                                </span> */}
-                                {/* <div style={{ fontSize: "12px" }} className="px-4"> <span style={{ background: "#00DFFB" }} className="p-1 rounded">Coming Soon</span></div> */}
-                                <p className="mt-2 px-3 fw-medium">
-                                    Unlock the Future: Spend Anywhere with Master Crypto
-                                    Card.
-                                </p>
-                            </div>
-                        </div>
-                    </div>
+                    ))}
                 </div>
             </div>
-            {/* <div className="d-flex flex-wrap justify-content-center">
-                <a className="btn buyBtn mt-5">Explore Our Security Commitment</a>
-            </div> */}
+
             <div className="bottomView"></div>
         </section>
-    )
+    );
 }
-export default BlockChainSecurity
+
+export default BlockChainSecurity;

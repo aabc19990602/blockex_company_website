@@ -41,9 +41,9 @@ function AboutUs() {
                             <div className="col-lg-4 col-md-4 col-12  150">
                                 <div className="px-5 py-3">
                                     <div>
-                                        <img src="/assets/images/WhyBlockEx/Seamless_intergrations.png" alt="" className="img-fluid" width={"150px"} />
+                                        <img src="/assets/images/WhyBlockEx/Blocex.png" alt="" className="img-fluid" width={"150px"} />
                                     </div>
-                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">Seamless intergration</p>
+                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">BlockEx Exchange</p>
                                 </div>
 
                             </div>

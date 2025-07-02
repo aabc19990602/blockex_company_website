@@ -68,7 +68,7 @@ body {
   }
 
   .inputGroup>input {
-    width: 290px !important;
+    width: 350px !important;
   }
 
   .homeBtn {
@@ -1094,7 +1094,7 @@ body {
     font-size: 40px !important;
     padding: 10px 30px !important;
     margin-top: -5px !important;
-    width: fit-content;
+    width: max-content;
   }
 
   .sliderp2_4 {

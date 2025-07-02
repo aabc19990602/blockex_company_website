@@ -8,6 +8,7 @@ import AboutUs2 from './aboutUs2';
 import MediaPartner from './media-partners';
 import CompanyRegister from './company-register';
 import ContactUs3 from './Contact';
+import PerSale from './PerSale';
 function FirstPage() {
     return (
         <>
@@ -15,6 +16,7 @@ function FirstPage() {
             <Home />
             <AboutUs />
             <BlockChainSecurity />
+            <PerSale />
             <AboutUs2 />
             {/* <CompanyRegister /> */}
             <MediaPartner />
