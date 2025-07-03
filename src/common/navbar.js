@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 import { HashLink } from "react-router-hash-link";
 import { useLocation } from "react-router-dom";
 import "./style.css";
-
+import BlockEx_Whitepaper from "../pdf/BlockEx_Whitepaper.pdf"
 function Navbar() {
   const [hashRoute, setHashRoute] = useState("");
   const [route, setRoute] = useState("/");
@@ -73,7 +73,7 @@ function Navbar() {
             <a href="https://exchangeblockex.com/launchpad" target="_blank" className="btn-modern">
               Buy Now XBE
             </a>
-            <a href="https://blockex.biz/xbe-whitepaper.pdf" target="_blank" className="btn-outline-modern">
+            <a href={BlockEx_Whitepaper} target="_blank" className="btn-outline-modern">
               Whitepaper
             </a>
 
