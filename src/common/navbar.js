@@ -70,9 +70,9 @@ function Navbar() {
             </li>
           </ul>
           <div className="d-flex gap-2">
-            <a href="https://exchangeblockex.com/launchpad" target="_blank" className="btn-modern">
+            {/* <a href="https://exchangeblockex.com/launchpad" target="_blank" className="btn-modern">
               Buy Now XBE
-            </a>
+            </a> */}
             <a href={BlockEx_Whitepaper} target="_blank" className="btn-outline-modern">
               Whitepaper
             </a>

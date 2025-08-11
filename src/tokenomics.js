@@ -96,19 +96,21 @@ function Topkenomics() {
               <div className="position-relative">
                 <div className="d-flex flex-wrap">
                   <div className="part1">
-                    <h1>$500,000 Raised</h1>
-                    <p>
-                      Join the BlockEx crypto presale, engage with the project,
-                      <br /> and see your contribution grow to new heights.
+                    <h1 style={{ color: "#000" }}>Listing Coming Soon</h1>
+                    <p style={{ color: "rgba(10, 11, 13, 0.6)" }}>
+                      {" "}
+                      Be part of the next chapter in crypto innovation staking,{" "}
+                      <br />
+                      launchpad access, and more are just around the corner.
                     </p>
-                    <a
+                    {/* <a
                       href="https://exchangeblockex.com/launchpad"
                       target="_blank"
                       className="btn btnBuy m-0"
                       style={{ background: "#171717" }}
                     >
                       Buy Now
-                    </a>
+                    </a> */}
                   </div>
                   <div className="part2">
                     <img

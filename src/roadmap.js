@@ -176,20 +176,22 @@ function Roadmap() {
               >
                 <div className="d-flex flex-wrap">
                   <div className="part1">
-                    <h1 style={{ color: "#000" }}>$500,000 Raised</h1>
+                    <h1 style={{ color: "#000" }}>Listing Coming Soon</h1>
                     <p style={{ color: "rgba(10, 11, 13, 0.6)" }}>
-                      Join the BlockEx crypto presale, engage with the project,
-                      <br /> and see your contribution grow to new heights.
+                      {" "}
+                      Be part of the next chapter in crypto innovation staking,{" "}
+                      <br />
+                      launchpad access, and more are just around the corner.
                     </p>
                     {/* <button className='btn buyBtn'>Buy Now</button> */}
-                    <a
+                    {/* <a
                       href="https://exchangeblockex.com/launchpad"
                       target="_blank"
                       className="btn btnBuy m-0"
                       style={{background:"#171717"}}
                     >
                       Buy Now
-                    </a>
+                    </a> */}
                   </div>
                   <div className="part2">
                     <img
