@@ -32,7 +32,7 @@ function ContactUs3() {
                             <div className="part1">
                                 <h1 style={{ color: "rgb(10, 11, 13)" }}>Newsletter</h1>
                                 <p style={{ color: "rgba(10, 11, 13, 0.7)" }}>
-                                    Subscribe to receive BlockEx Coin newsletter and get<br />
+                                    Subscribe to receive BlocEx Coin newsletter and get<br />
                                     the latest news, updates, and insights
                                 </p>
                             </div>

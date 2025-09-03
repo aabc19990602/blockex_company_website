@@ -45,7 +45,7 @@ function Roadmap() {
                                     <li>Start Development on Blockchain</li>
                                     <li>Create All Social Media Accounts</li>
                                     <li>First ITO</li>
-                                    <li>BlockEx Staking Mobile and Web App</li>
+                                    <li>BlocEx Staking Mobile and Web App</li>
                                 </ul>
                             </div>
                         </SwiperSlide>
@@ -88,7 +88,7 @@ function Roadmap() {
                                 </div>
                                 <h2 className="text-white roadMapH2">Pilot and Deployment:</h2>
                                 <ul className="text-white points">
-                                    <li>BlockEx Blockchain Mainnet Launch</li>
+                                    <li>BlocEx Blockchain Mainnet Launch</li>
                                     <li>Crypto Payment Gateway Launch</li>
                                     <li>Tokenization Partnerships</li>
                                 </ul>
@@ -118,7 +118,7 @@ function Roadmap() {
                 <li>Create All Social Media Accounts</li>
                 <li>Initial Offering</li>
                 <li>Create All Social Media Accounts</li>
-                <li>BlockEX Staking Mobile and Web App</li>
+                <li>BlocEx Staking Mobile and Web App</li>
               </ul>
             </div>
           </div>
@@ -136,10 +136,10 @@ function Roadmap() {
             <div className="content">
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 1</h2>
               <ul>
-                <li>BlockEx DEX Launch</li>
-                <li>BlockEx Centralized Exchange Launch</li>
+                <li>BlocEx DEX Launch</li>
+                <li>BlocEx Centralized Exchange Launch</li>
                 <li>Listing Coin in More exchanges</li>
-                <li>BlockEx Mobile EVM Wallet</li>
+                <li>BlocEx Mobile EVM Wallet</li>
               </ul>
             </div>
           </div>
@@ -147,9 +147,9 @@ function Roadmap() {
             <div className="content">
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 2</h2>
               <ul>
-                <li>BlockEx Mastercard Launch</li>
-                <li>BlockEx Card Platform Launch</li>
-                <li>BlockEx Vendor Program</li>
+                <li>BlocEx Mastercard Launch</li>
+                <li>BlocEx Card Platform Launch</li>
+                <li>BlocEx Vendor Program</li>
               </ul>
             </div>
           </div>
@@ -158,7 +158,7 @@ function Roadmap() {
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 3</h2>
               <ul>
                 <li>Crypto Payment Gateway</li>
-                <li>Listing BlockEx coin in more Top exchange</li>
+                <li>Listing BlocEx coin in more Top exchange</li>
               </ul>
             </div>
           </div>
@@ -185,7 +185,7 @@ function Roadmap() {
                     </p>
                     {/* <button className='btn buyBtn'>Buy Now</button> */}
                     {/* <a
-                      href="https://exchangeblockex.com/launchpad"
+                      href="https://exchangeBlocEx.com/launchpad"
                       target="_blank"
                       className="btn btnBuy m-0"
                       style={{background:"#171717"}}

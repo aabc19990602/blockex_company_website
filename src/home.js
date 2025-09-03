@@ -39,7 +39,7 @@ function Home() {
                 <div className="d-flex justify-content-center">
                   <div className="mainDiv">
                     <div className="pl">
-                      <p className="homep01">WELCOME TO BlockEx</p>
+                      <p className="homep01">WELCOME TO BlocEx</p>
                       <h1 className="homeH1">
                         Pioneering Blockchain Innovation in Real Estate.
                       </h1>
@@ -96,7 +96,7 @@ function Home() {
                   <div className="mainDiv">
                     <div className="pl2">
                       <h1 className="slider2_h1">
-                        A New Era of <br /> Trading on <br /> BlockEx.
+                        A New Era of <br /> Trading on <br /> BlocEx.
                       </h1>
                       <p className="slider2_p">Coming Soon</p>
                       <CountDown />
@@ -146,7 +146,7 @@ function Home() {
                   <div className="mainDiv">
                     <div className="pl2">
                       <h1 className="slider2_h1">
-                        BlockEx <br /> Mobile App <br />
+                        BlocEx <br /> Mobile App <br />
                       </h1>
                       <p className="slider2_p">Coming Soon</p>
                       {/* <CountDown /> */}
@@ -167,7 +167,7 @@ function Home() {
                     className="slider2_h1 mt-0 mt-md-5"
                     style={{ fontSize: "90px" }}
                   >
-                    A New Era of <br /> Trading on <br /> BlockEx.
+                    A New Era of <br /> Trading on <br /> BlocEx.
                   </h1>
                   {/* <h1 className="slider2_h1" style={{ fontSize: "50px" }}>
                     ITO - Over Now

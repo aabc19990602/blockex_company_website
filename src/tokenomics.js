@@ -14,7 +14,7 @@ function Topkenomics() {
         </div>
         <section className="" id="tokenomics">
           <h1 className="TopkenomicsH1">TOKENOMICS</h1>
-          <p className="TopkenomicsP1">Tokenomics of BlockEx Coin</p>
+          <p className="TopkenomicsP1">Tokenomics of BlocEx Coin</p>
           <p className="TopkenomicsP2">
             This tokenomics is designed for sustainability and growth, ensuring
             a balanced

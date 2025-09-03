@@ -16,14 +16,14 @@ const AboutCompany = () => {
                 </div>
                 <section className="Topkenomics" id="aboutcompany">
                     <h1 className="TopkenomicsH1">About Compnay</h1>
-                    <p className="TopkenomicsP1">About BlockEx </p>
+                    <p className="TopkenomicsP1">About BlocEx </p>
                     {/* <p className="TopkenomicsP2">This tokenomics is designed for sustainability and growth, ensuring a balanced<br /> supply and demand. With a strategic allocations</p> */}
                 </section >
                 <div className='container'>
                     <div className='row justify-content-center align-items-center'>
                         <div className='col-lg-6 col-md-8 col-12  order-md-1 order-2'>
                             <p className='text-white' style={{ fontSize: "18px", textAlign: "justify" }}>
-                                Driven by this vision, we set out to create a comprehensive suite of payment solutions tailored to meet the diverse needs of businesses and individuals. At BlockEX, we're passionate about revolutionizing the way people transact in the digital age. Founded by a team of experienced professionals in both the financial and technological sectors, BlockEX is dedicated to making cryptocurrency payments simple, secure, and accessible to everyone, everywhere.
+                                Driven by this vision, we set out to create a comprehensive suite of payment solutions tailored to meet the diverse needs of businesses and individuals. At BlocEx, we're passionate about revolutionizing the way people transact in the digital age. Founded by a team of experienced professionals in both the financial and technological sectors, BlocEx is dedicated to making cryptocurrency payments simple, secure, and accessible to everyone, everywhere.
 
                                 Our journey began with a simple yet powerful idea: to bridge the gap between traditional finance and the innovative world of blockchain technology. We recognized the immense potential of cryptocurrencies to transform global services and ideas by enabling instant, borderless transactions with unprecedented levels of security and transparency.
 

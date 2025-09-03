@@ -23,10 +23,10 @@ function AboutUs() {
 
             <section className="aboutUs" style={{ background: "black" }} >
                 <div className="outli m-0 p-0" style={{}}>
-                    BlockEx
+                    BlocEx
                 </div>
                 <div className="aboutSection1">
-                    <h5 className="text-uppercase fw-bold m-0 p-0">Why choose our BlockEX Coin (XBE)
+                    <h5 className="text-uppercase fw-bold m-0 p-0">Why choose our BlocEx Coin (XBE)
                     </h5>
                     <div className="container mt-5">
                         <div className="row justify-content-center align-items-center text-center text-white">
@@ -35,7 +35,7 @@ function AboutUs() {
                                     <div>
                                         <img src="/assets/images/WhyBlockEx/blockex_exchange.png" alt="" className="img-fluid" width={"150px"} />
                                     </div>
-                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">BlockEx Blockchain</p>
+                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">BlocEx Blockchain</p>
                                 </div>
                             </div>
                             <div className="col-lg-4 col-md-4 col-12  150">
@@ -43,7 +43,7 @@ function AboutUs() {
                                     <div>
                                         <img src="/assets/images/WhyBlockEx/Blocex.png" alt="" className="img-fluid" width={"150px"} />
                                     </div>
-                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">BlockEx Exchange</p>
+                                    <p style={{ fontSize: "20px" }} className="fw-bold text-capitalize">BlocEx Exchange</p>
                                 </div>
 
                             </div>

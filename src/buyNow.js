@@ -19,7 +19,7 @@ function BuyNow() {
             <div className="loginBox">
                 <div className='col-12 boxBG'>
                     <p className='text-center'><img src='/assets/images/dashboard/logoStar.png' width="300" height="60" /></p>
-                    <h1 className='login_title'>Welcome to BlockEx Dashboard</h1>
+                    <h1 className='login_title'>Welcome to BlocEx Dashboard</h1>
                     <p className='login_p'>To reach dashboard connect your wallet first!</p>
                     <div className='d-flex flex-wrap justify-content-between'>
                         <Link className='goHome' to='/'>Go Home</Link>
