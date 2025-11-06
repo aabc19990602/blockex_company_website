@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d9e765f.css",
-    "main.js": "/static/js/main.f270e71b.js",
+    "main.css": "/static/css/main.23cb68cd.css",
+    "main.js": "/static/js/main.7e0d47ad.js",
     "static/js/453.ead6df9b.chunk.js": "/static/js/453.ead6df9b.chunk.js",
     "static/media/BlockEx_Whitepaper.pdf": "/static/media/BlockEx_Whitepaper.3d38c367940be50467ef.pdf",
     "static/media/Banner_6.jpg": "/static/media/Banner_6.488c824047e5f85a29eb.jpg",
@@ -14,12 +14,12 @@
     "static/media/Banner_7.jpg": "/static/media/Banner_7.a6097191b355db227d85.jpg",
     "static/media/Banner_7_mbl.jpg": "/static/media/Banner_7_mbl.d07866020be572c6b7b1.jpg",
     "index.html": "/index.html",
-    "main.0d9e765f.css.map": "/static/css/main.0d9e765f.css.map",
-    "main.f270e71b.js.map": "/static/js/main.f270e71b.js.map",
+    "main.23cb68cd.css.map": "/static/css/main.23cb68cd.css.map",
+    "main.7e0d47ad.js.map": "/static/js/main.7e0d47ad.js.map",
     "453.ead6df9b.chunk.js.map": "/static/js/453.ead6df9b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0d9e765f.css",
-    "static/js/main.f270e71b.js"
+    "static/css/main.23cb68cd.css",
+    "static/js/main.7e0d47ad.js"
   ]
 }

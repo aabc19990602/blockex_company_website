@@ -27,8 +27,9 @@ const TermConditions = () => {
             BlockEx website {""}
             <span>
               <a
-                href="https://www.exchangeblockex.com"
+                href="https://exchangeblockex.com/"
                 target="_blank"
+                rel="noopener noreferrer"
                 className="privacy-email-link"
               >
                 (https://www.exchangeblockex.com)
@@ -66,6 +67,7 @@ const TermConditions = () => {
             <a
               href="https://www.blockex.biz/risk"
               target="_blank"
+                rel="noopener noreferrer"
               className=" text-dark"
             >
               https://www.blockex.biz/risk
@@ -123,6 +125,7 @@ const TermConditions = () => {
               <a
                 href="https://www.blockex.biz/risk"
                 target="_blank"
+                  rel="noopener noreferrer"
                 className="privacy-email-link"
               >
                 https://www.blockex.biz/risk
