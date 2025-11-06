@@ -7,7 +7,7 @@ function Topkenomics() {
   }, []);
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       <div className="roadMapBg">
         <div className="container">
           <p className="mt-5 text-white">Home {">>"} Tokenomics</p>
@@ -124,7 +124,7 @@ function Topkenomics() {
           </section>
         </section>
       </div>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

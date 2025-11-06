@@ -8,7 +8,7 @@ const AboutCompany = () => {
     }, []);
     return (
         <>
-            <Navbar />
+            {/* <Navbar /> */}
             <div className='roadMapBg'>
 
                 <div className='container'>
@@ -72,7 +72,7 @@ const AboutCompany = () => {
                 </div>
             </div>
 
-            <Footer />
+            {/* <Footer /> */}
 
 
         </>

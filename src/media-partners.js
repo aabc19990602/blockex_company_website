@@ -8,7 +8,7 @@ function MediaPartner() {
                             <div className="mediaPartner">
                                 <h1 style={{ color: "black" }}>Partners</h1>
                                 <p className="main" style={{ color: "black" }}>Media Partners</p>
-                                <p className="sub" style={{ color: "black", opacity: "0.7", fontSize: "20px" }}>The BlocEx revolution is catching global attention. From blockchain trends to project deep dives, see what the industry’s top voices are saying.
+                                <p className="sub" style={{ color: "black", opacity: "0.7", fontSize: "20px" }}>The BlockEx revolution is catching global attention. From blockchain trends to project deep dives, see what the industry’s top voices are saying.
 </p>
                             </div>
                         </div>

@@ -16,7 +16,7 @@ function Roadmap() {
 
   return (
     <>
-      <Navbar />
+      {/* <Navbar /> */}
       {/* <section className="roadMap" id="roadmap">
                 <h1 className="roadMapH1">Roadmap</h1>
                 <p className="roadMapP1">2025: Building the Future, Quarter by Quarter</p>
@@ -206,7 +206,7 @@ function Roadmap() {
           </section>
         </section>
       </section>
-      <Footer />
+      {/* <Footer /> */}
     </>
   );
 }

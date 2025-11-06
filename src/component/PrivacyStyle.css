@@ -1,0 +1,21 @@
+.privacy-text {
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 8px;
+  line-height: 1.6;
+  text-align: justify;
+}
+
+.privacy-label {
+  color: #00effd;
+  font-weight: 600;
+  text-align: justify;
+}
+.privacy-email-link {
+  color: #00effd;
+  text-decoration: underline;
+  font-weight: 600;
+}
+.li-text {
+  font-size: 16px;
+}

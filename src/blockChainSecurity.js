@@ -4,12 +4,12 @@ function BlockChainSecurity() {
       <div className="topView"></div>
 
       <div className="outli">Ecosystem</div>
-      <p className="bloackChain_p1">BlocEx Ecosystem</p>
+      <p className="bloackChain_p1">BlockEx Ecosystem</p>
       <h1 className="bloackChain_h1">Security. Decentralized. Reinvented.</h1>
       <p className="bloclChain_p2">
         Powered by cutting-edge protocols and a community that codes security
         into every layer,
-        <br /> BlocEx is redefining how decentralized platforms protect what
+        <br /> BlockEx is redefining how decentralized platforms protect what
         matters most your trust.
       </p>
 
@@ -40,7 +40,7 @@ function BlockChainSecurity() {
                     style={{ fontSize: "20px", color: "#00F0FF" }}
                     className="px-3 mt-4 fw-bold"
                   >
-                    BlocEx Exchange{" "}
+                    BlockEx Exchange{" "}
                     <span
                       style={{
                         background: "green",
@@ -63,7 +63,7 @@ function BlockChainSecurity() {
           {/* Coming Soon Cards */}
           {[
             {
-              title: "BlocEx Staking App",
+              title: "BlockEx Staking App",
               description: "Allows users to stake their XBE coins and earn",
               image: "/assets/images/Staking_app.jpg",
             },
