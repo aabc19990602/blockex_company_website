@@ -1234,6 +1234,9 @@ h5 {
 }
 
 @media (max-width: 500px) {
+  .bloackChain_h1 {
+    font-size: 30px;
+  }
   .homeBg5 {
     height: max-content !important;
   }
