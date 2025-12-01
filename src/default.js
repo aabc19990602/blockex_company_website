@@ -6,7 +6,7 @@ import BlockChainSecurity from "./blockChainSecurity";
 import ContactUs from "./contactus";
 import AboutUs2 from "./aboutUs2";
 import MediaPartner from "./media-partners";
-import CompanyRegister from "./company-register";
+// import CompanyRegister from "./company-register";
 import ContactUs3 from "./Contact";
 import PerSale from "./PerSale";
 function FirstPage() {

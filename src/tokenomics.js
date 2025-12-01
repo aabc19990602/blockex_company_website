@@ -1,5 +1,5 @@
-import Navbar from "./common/navbar";
-import Footer from "./common/footer";
+// import Navbar from "./common/navbar";
+// import Footer from "./common/footer";
 import { useEffect } from "react";
 function Topkenomics() {
   useEffect(() => {
@@ -96,26 +96,28 @@ function Topkenomics() {
               <div className="position-relative">
                 <div className="d-flex flex-wrap">
                   <div className="part1">
-                    <h1 style={{ color: "#000" }}>Listing Coming Soon</h1>
+                    <h1 style={{ color: "#000" }}>XBE Coin Trading</h1>
                     <p style={{ color: "rgba(10, 11, 13, 0.6)" }}>
                       {" "}
-                      Be part of the next chapter in crypto innovation staking,{" "}
-                      <br />
-                      launchpad access, and more are just around the corner.
+                      Trade smarter, faster, and safer with XBE <br />— the
+                      digital asset engineered for growth.
                     </p>
-                    {/* <a
-                      href="https://exchangeblockex.com/launchpad"
+                    {/* <button className='btn buyBtn'>Buy Now</button> */}
+                    <a
+                      href="https://exchangeblockex.com/"
                       target="_blank"
                       className="btn btnBuy m-0"
+                      rel="noreferrer"
                       style={{ background: "#171717" }}
                     >
-                      Buy Now
-                    </a> */}
+                      Trade Now
+                    </a>
                   </div>
                   <div className="part2">
                     <img
                       src="/assets/images/contact_coin.png"
                       className="img-fluid setImgPosition"
+                      alt=""
                     />
                   </div>
                 </div>

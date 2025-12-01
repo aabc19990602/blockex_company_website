@@ -1,13 +1,13 @@
 import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import Publiclayout from "./layouts/public-layout";
-import BuyNowLayout from "./layouts/buy-now";
+// import BuyNowLayout from "./layouts/buy-now";
 import FirstPage from "./default";
-import BuyNow from "./buyNow";
+// import BuyNow from "./buyNow";
 import Topkenomics from "./tokenomics";
 import Roadmap from "./roadmap";
-import Dashboardlayout from "./layouts/dashboard";
-import DashboardHome from "./dashboard/home";
+// import Dashboardlayout from "./layouts/dashboard";
+// import DashboardHome from "./dashboard/home";
 import AboutCompany from "./AboutCompany";
 // import PrivacyPolicy from "./pages/PrivacyPolicy";
 import PrivacyPolicyComp from "./component/PrivacyPolicy";
