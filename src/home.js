@@ -98,7 +98,20 @@ function Home() {
                       <h1 className="slider2_h1">
                         A New Era of <br /> Trading on <br /> BlockEx.
                       </h1>
-                      <p className="slider2_p">Coming Soon</p>
+                      <p className="slider2_p"></p>
+                      <a
+                        className=" rounded-2 px-5 py-3"
+                        href="https://exchangeblockex.com/"
+                        style={{
+                          background: "#00EDFC",
+                          color: "#0A0B0D",
+                          textDecoration: "none",
+                        }}
+                        target="_blank"
+                        rel="noreferrer"
+                      >
+                        Trade Now
+                      </a>
                       <CountDown />
                     </div>
                   </div>
@@ -121,10 +134,10 @@ function Home() {
                       <p className="slider2_p" style={{ fontSize: "18px" }}>
                         14% of Trading{" "}
                         <span
-                        className="p-1 rounded"
+                          className="p-1 rounded"
                           style={{
                             background: "#00D8E6",
-                            color:"black"
+                            color: "black",
                           }}
                         >
                           Fees go back to you.
@@ -148,7 +161,9 @@ function Home() {
                       <h1 className="slider2_h1">
                         BlockEx <br /> Mobile App <br />
                       </h1>
-                      <p className="slider2_p">Coming Soon</p>
+                      <p className="homep1">
+                        is available on Play Store &  App Store.
+                      </p>
                       {/* <CountDown /> */}
                     </div>
                   </div>
@@ -172,7 +187,19 @@ function Home() {
                   {/* <h1 className="slider2_h1" style={{ fontSize: "50px" }}>
                     ITO - Over Now
                   </h1> */}
-                  <p className="slider2_p">Coming Soon</p>
+                  <a
+                    className=" rounded-2 px-5 py-3"
+                    href="https://exchangeblockex.com/"
+                    style={{
+                      background: "#00EDFC",
+                      color: "#0A0B0D",
+                      textDecoration: "none",
+                    }}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Trade Now
+                  </a>
                   {/* <a
                     href="https://exchangeblockex.com/"
                     target="_blank"

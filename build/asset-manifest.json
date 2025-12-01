@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.432438ed.css",
-    "main.js": "/static/js/main.de566c61.js",
+    "main.js": "/static/js/main.6087e9ef.js",
     "static/js/453.ead6df9b.chunk.js": "/static/js/453.ead6df9b.chunk.js",
     "static/media/BlockEx_Whitepaper.pdf": "/static/media/BlockEx_Whitepaper.3d38c367940be50467ef.pdf",
     "static/media/Banner_6.jpg": "/static/media/Banner_6.488c824047e5f85a29eb.jpg",
@@ -15,11 +15,11 @@
     "static/media/Banner_7_mbl.jpg": "/static/media/Banner_7_mbl.d07866020be572c6b7b1.jpg",
     "index.html": "/index.html",
     "main.432438ed.css.map": "/static/css/main.432438ed.css.map",
-    "main.de566c61.js.map": "/static/js/main.de566c61.js.map",
+    "main.6087e9ef.js.map": "/static/js/main.6087e9ef.js.map",
     "453.ead6df9b.chunk.js.map": "/static/js/453.ead6df9b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.432438ed.css",
-    "static/js/main.de566c61.js"
+    "static/js/main.6087e9ef.js"
   ]
 }
