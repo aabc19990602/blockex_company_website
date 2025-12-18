@@ -118,7 +118,7 @@ function Roadmap() {
                 <li>Create All Social Media Accounts</li>
                 <li>Initial Offering</li>
                 <li>Create All Social Media Accounts</li>
-                <li>BlocEx Staking Mobile and Web App</li>
+                <li>BlockEx Staking Mobile and Web App</li>
               </ul>
             </div>
           </div>
