@@ -136,10 +136,10 @@ function Roadmap() {
             <div className="content">
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 1</h2>
               <ul>
-                <li>BlocEx DEX Launch</li>
-                <li>BlocEx Centralized Exchange Launch</li>
+                <li>BlockEx DEX Launch</li>
+                <li>BlockEx Centralized Exchange Launch</li>
                 <li>Listing Coin in More exchanges</li>
-                <li>BlocEx Mobile EVM Wallet</li>
+                <li>BlockEx Mobile EVM Wallet</li>
               </ul>
             </div>
           </div>
@@ -147,9 +147,9 @@ function Roadmap() {
             <div className="content">
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 2</h2>
               <ul>
-                <li>BlocEx Mastercard Launch</li>
-                <li>BlocEx Card Platform Launch</li>
-                <li>BlocEx Vendor Program</li>
+                <li>BlockEx Mastercard Launch</li>
+                <li>BlockEx Card Platform Launch</li>
+                <li>BlockEx Vendor Program</li>
               </ul>
             </div>
           </div>
@@ -158,7 +158,7 @@ function Roadmap() {
               <h2 style={{ color: "#00F0FF" }}>2026 - QUARTER 3</h2>
               <ul>
                 <li>Crypto Payment Gateway</li>
-                <li>Listing BlocEx coin in more Top exchange</li>
+                <li>Listing BlockEx coin in more Top exchange</li>
               </ul>
             </div>
           </div>
